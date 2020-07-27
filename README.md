@@ -30,8 +30,8 @@ uma única linguagem e uma única biblioteca de interfaces.</p>
 <h3> Para utilizar: </h3>
 <p> Faça o download do projeto no GitHub <br/>
 <br/>Execute <code>npm install</code> nas pastas <b>backend, frontend e mobile</b>, para instalar as dependências.<br/>
-<br/>Execute <code>npm start</code> na pasta <b>back-end</b> para rodar o servidor na porta localhost:3000<br/>
-<br/>Execute <code>npm start</code> na pasta <b>front-end</b> para rodar a página web na porta localhost:3333<br/>
+<br/>Execute <code>npm start</code> na pasta <b>back-end</b> para rodar o servidor na porta localhost:3333<br/>
+<br/>Execute <code>npm start</code> na pasta <b>front-end</b> para rodar a página web na porta localhost:3000<br/>
 <br/>Execute <code>npm start</code> na pasta <b>mobile</b>, acesse localhost:19002, leia o QR Code no seu 
 celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR"> (Download na Playstore) </a> -
 <a href="https://apps.apple.com/br/app/expo-client/id982107779"> (Download na App Store) </a>. É possível também usar algum emulador de Android ou iOS. 
