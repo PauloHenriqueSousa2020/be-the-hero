@@ -45,10 +45,89 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
 	</tr>
 	<tr>
 		<td>
-			<img src="imgs/login.png" alt="react">
+			<img src="imgs/login.png" >
+		</td>
+	</tr>
+		<tr>
+		<th width="100%">
+			Tela de Cadastro<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="imgs/cadastro.png" >
+		</td>
+	</tr>
+		<tr>
+		<th width="100%">
+			Tela Casos Cadastrados <br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="imgs/profile.png" >
+		</td>
+	</tr>
+		<tr>
+		<th width="100%">
+			Tela de Cadastrar Novo Caso<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="imgs/cadastro_caso.png" >
 		</td>
 	</tr>
 </table>
+
+<h3> Interface MOBILE: </h3>
+
+<table>
+	<tr>
+		<th width="33.3%">
+			Splash Screen<br>
+		</th>
+		<th width="33.3%">
+			Tela de Casos
+		</th>
+    <th width="33.3%">
+			Tela de Detalhes
+		</th>
+	</tr>
+	<tr><!-- Prevent zebra stripes --></tr>
+	<tr>
+		<td>
+			<img src="imgs/splash.jpeg" >
+		</td>
+		<td>
+			<img src="imgs/incidents.jpeg" >
+		</td>
+    <td>
+			<img src="imgs/details.jpeg" >
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th width="63.3%">
+			Contato via Whatsapp<br>
+		</th>
+		<th width="33.7%">
+			Contato via Email
+		</th>
+	</tr>
+	<tr><!-- Prevent zebra stripes --></tr>
+	<tr>
+		<td>
+			<img src="imgs/whatsapp.jpeg" >
+		</td>
+		<td>
+			<img src="imgs/email.jpeg" >
+		</td>
+	</tr>
+</table>
+
 
 
 <h3> Instrutor: </h3> 
