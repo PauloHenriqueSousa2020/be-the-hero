@@ -54,4 +54,4 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
 <a href="https://github.com/diego3g"> Diego Fernantes </a> - CTO Rocketseat
 
 <h3> Licença </h3>
-Este projeto está sobre a licença 
+Este projeto está sobre a licença <a href="https://github.com/PauloHenriqueSousa2020/be-the-hero/blob/master/LICENSE.md"> MIT </a>
