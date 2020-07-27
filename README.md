@@ -48,9 +48,7 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
     <img alt="" title="" src="imgs/print8.png">
     <img alt="" title="" src="imgs/print9.png">
 </p>
-
 <h3> Instrutor: </h3> 
-<img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> <a href="https://rocketseat.com.br/"> Rocketseat </a>
 <a href="https://github.com/diego3g"> Diego Fernantes </a> - CTO Rocketseat
 
 <h3> Licença </h3>
