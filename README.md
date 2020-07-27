@@ -37,17 +37,20 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
 <a href="https://apps.apple.com/br/app/expo-client/id982107779"> (Download na App Store) </a>. É possível também usar algum emulador de Android ou iOS. 
 
 <h3> Interface WEB: </h3>
-<p align="center">
-    <p>Tela de Login:</p><br/><img alt="" title="" src="imgs/login.png"> 
-    <img alt="" title="" src="imgs/cadastro.png">
-    <img alt="" title="" src="imgs/profile.png">
-    <img alt="" title="" src="imgs/cadastro_caso.png">
-    <img alt="" title="" src="imgs/print5.png">
-    <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
-</p>
+<table>
+	<tr>
+		<th width="100%">
+			Web Interface<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
+		</td>
+	</tr>
+</table>
+
+
 <h3> Instrutor: </h3> 
 <a href="https://github.com/diego3g"> Diego Fernandes </a> - CTO Rocketseat
 
