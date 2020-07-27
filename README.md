@@ -36,18 +36,21 @@ uma única linguagem e uma única biblioteca de interfaces.</p>
 celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR"> (Download na Playstore) </a> -
 <a href="https://apps.apple.com/br/app/expo-client/id982107779"> (Download na App Store) </a>. É possível também usar algum emulador de Android ou iOS. 
 
-<h3> Interfaces: </h3>
-<p align="center">
-    <img alt="" title="" src="imgs/print1.png">
-    <img alt="" title="" src="imgs/print2.png">
-    <img alt="" title="" src="imgs/print3.png">
-    <img alt="" title="" src="imgs/print4.png">
-    <img alt="" title="" src="imgs/print5.png">
-    <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
-</p>
+<h3> Interface WEB: </h3>
+<table>
+	<tr>
+		<th width="100%">
+			Web Interface<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
+		</td>
+	</tr>
+</table>
+
+
 <h3> Instrutor: </h3> 
 <a href="https://github.com/diego3g"> Diego Fernandes </a> - CTO Rocketseat
 
