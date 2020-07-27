@@ -49,7 +49,7 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
     <img alt="" title="" src="imgs/print9.png">
 </p>
 <h3> Instrutor: </h3> 
-<a href="https://github.com/diego3g"> Diego Fernantes </a> - CTO Rocketseat
+<a href="https://github.com/diego3g"> Diego Fernandes </a> - CTO Rocketseat
 
 <h3> Licença </h3>
 Este projeto está sobre a licença <a href="https://github.com/PauloHenriqueSousa2020/be-the-hero/blob/master/LICENSE.md"> MIT </a>
