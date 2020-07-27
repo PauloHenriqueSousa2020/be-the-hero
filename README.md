@@ -36,7 +36,7 @@ uma única linguagem e uma única biblioteca de interfaces.</p>
 celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR"> (Download na Playstore) </a> -
 <a href="https://apps.apple.com/br/app/expo-client/id982107779"> (Download na App Store) </a>. É possível também usar algum emulador de Android ou iOS. 
 
-<h3> Interface WEB: </h3>
+<h3> Interfaces: </h3>
 <table>
 	<tr>
 		<th width="100%">
@@ -45,7 +45,7 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
 	</tr>
 	<tr>
 		<td>
-			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
+			<embed width="1080" src="imgs/BeTheHero.mp4"/>
 		</td>
 	</tr>
 </table>
